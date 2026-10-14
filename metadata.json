@@ -1,0 +1,6 @@
+{
+  "name": "Condominio Residencial Florencia",
+  "description": "Sistema integral de gestión de condominio para el Conjunto Residencial Florencia con control de 216 casas, cuotas en Bs y USD (BCV), recibos de cobro, pagos con comprobante, reservas de áreas comunes, incidencias y auditoría legal SENIAT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
